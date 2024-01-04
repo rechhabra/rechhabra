@@ -1,17 +1,9 @@
-# Hi! Welcome to my profile!
-As a highly motivated and multidisciplinary individual with a passion for computer science, mathematics, sports, and art, I am actively seeking full-time and research opportunities for 2024. My primary interests are in machine learning, artificial intelligence, data analytics, and architectural design, as I am currently working towards a degree in Mathematics, Computer Science, and Art History. Additionally, I am concurrently pursuing a master's degree in Artificial Intelligence.
+# ⚡ Hi! Welcome to my GitHub profile! ⚡
 
-When I'm not busy, I love to spend my time doing things including reading, baking, painting, running, dancing, playing chess, traveling, photography, trying new sports, and practicing martial arts. Feel free to explore my repositories or reach out about anything!
+Welcome! For information regarding skills, work and career, see my other socials below.
 
-## Personal Skills
-- **🚀 Fast and Adaptive Learner:** Leveraging extensive problem-solving skills and a competitive background in mathematics and programming, I excel at quickly acquiring new technologies and skills.
-  
-- **🏃 Determination:** Driven by a relentless commitment to success, I thrive in challenging situations, whether it's running multiple marathons or preparing software for launch.
-
-## 📐 Competitions
-- 🥇 United States of America Computing Olympiad Gold Division (2019)
-- 🌟 American Invitational Mathematics Examination (AIME) Qualifier (2020)
-- 🧠 Former American Mathematics Competitions (AMC) Coach
+## 📫 Other Socials
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Reshab_Chhabra-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/reshab-chhabra/)](https://www.linkedin.com/in/reshab-chhabra/)
 
 ## Experience With Technologies
 ### **🚀 Programming Languages**
@@ -46,19 +38,8 @@ When I'm not busy, I love to spend my time doing things including reading, bakin
 ### **🛠️ Other Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 💼 Work Experience (also found on [LinkedIn](https://www.linkedin.com/in/reshab-chhabra/))
-- Data Engineer Intern @ Amazon Studios
-- Machine Learning Engineer Intern @ Amazon Music
-- Software Developer Engineer Intern @ Amazon Web Services
-- Statistics Test Writer @ National Mu Alpha Theta
-- UI/UX Intern @ Boston University Forge Design Studios
-- Teaching Assistant for Functional Programming, Computational Tools for Data Science, Computing Systems, and Geometric Algorithms @ Boston University
-
 ## 🛠️ Projects
 1. [Algorithmic Video Reduction by Estimating Chunk Significance Using Spatial-Temporal Masked Auto Encoders](https://github.com/rechhabra/carv-st-mae)
-
-## 📫 Other Socials
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Reshab_Chhabra-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/reshab-chhabra/)](https://www.linkedin.com/in/reshab-chhabra/)
 
 <!--
 **rechhabra/rechhabra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
