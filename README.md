@@ -6,7 +6,7 @@ Welcome! For information regarding skills, work and career, see my other socials
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Reshab_Chhabra-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/reshab-chhabra/)](https://www.linkedin.com/in/reshab-chhabra/)
 
 ## Experience With Technologies
-### **🚀 Programming Languages**
+**🚀 Programming Languages**   
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -15,14 +15,14 @@ Welcome! For information regarding skills, work and career, see my other socials
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 
-### **☁️ Cloud & Infrastructure**
+**☁️ Cloud & Infrastructure**   
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-### **📱 Mobile & Frameworks**
+**📱 Mobile & Frameworks**   
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
-### **📊 Data Science & Analytics**
+**📊 Data Science & Analytics**   
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
 ![JMP](https://img.shields.io/badge/JMP-B31732?style=flat&logo=sas&logoColor=white)
@@ -30,15 +30,20 @@ Welcome! For information regarding skills, work and career, see my other socials
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-### **🛢️ Databases & SQL**
+**🛢️ Databases & SQL**   
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-### **🛠️ Other Tools**
+**🎨 Design**   
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) 
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white) 
+
+**🛠️ Other Tools**   
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 🛠️ Projects
+## 📜 Projects
 1. [Algorithmic Video Reduction by Estimating Chunk Significance Using Spatial-Temporal Masked Auto Encoders](https://github.com/rechhabra/carv-st-mae)
 
 <!--
