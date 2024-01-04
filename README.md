@@ -61,7 +61,7 @@ When I'm not busy, I love to spend my time doing things including reading, bakin
 1. [Algorithmic Video Reduction by Estimating Chunk Significance Using Spatial-Temporal Masked Auto Encoders](https://github.com/rechhabra/carv-st-mae)
 
 ## 📫 Other Socials
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/reshab-chhabra/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Reshab_Chabra-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/reshab-chhabra/)](https://www.linkedin.com/in/reshab-chhabra/)
 
 <!--
 **rechhabra/rechhabra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
