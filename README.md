@@ -9,7 +9,7 @@ When I'm not busy, I love to spend my time doing things including reading, bakin
 - **🏃 Determination:** Driven by a relentless commitment to success, I thrive in challenging situations, whether it's running multiple marathons or preparing software for launch.
 
 ## 📐 Competitions
-- 🥇 United States of America Computing Olympiad Gold Medalist (2019)
+- 🥇 United States of America Computing Olympiad Gold Division (2019)
 - 🌟 American Invitational Mathematics Examination (AIME) Qualifier (2020)
 - 🧠 Former American Mathematics Competitions (AMC) Coach
 
