@@ -41,8 +41,9 @@ Welcome! For information regarding skills, work and career, see my other socials
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white) 
 
-**🛠️ Other Tools**   
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+**🛠️ Operating Systems**   
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 <!--
 **rechhabra/rechhabra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
