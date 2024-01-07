@@ -43,9 +43,6 @@ Welcome! For information regarding skills, work and career, see my other socials
 **🛠️ Other Tools**   
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 📜 Projects
-1. [Algorithmic Video Reduction by Estimating Chunk Significance Using Spatial-Temporal Masked Auto Encoders](https://github.com/rechhabra/carv-st-mae)
-
 <!--
 **rechhabra/rechhabra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
